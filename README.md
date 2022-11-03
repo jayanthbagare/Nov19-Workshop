@@ -27,6 +27,7 @@
 	3. Plan to Produce
 	4. Hire to Retire
 	5. Environment and Circular Economy
+	
 
 # Design of B2C Systems #
 	1. EGS
@@ -55,6 +56,8 @@
 			1.4.1 What is the Process Flow established
 			1.4.2 Where is the data stocked and what is the velocity
 			1.4.3 What is the Throughput (consumption) and how is that designed
+#Analytics
+1. Analytics Overview, Different Tools, Drag & Drop
 
 # Summary #
 	1. Understand System
